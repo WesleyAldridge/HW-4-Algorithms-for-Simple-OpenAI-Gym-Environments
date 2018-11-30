@@ -1,4 +1,4 @@
-# HW-4-Algorithms-for-Simple-OpenAI-Gym-Environments
+# HW 4 Algorithms for Simple OpenAI Gym Environments
 
 Problem 1:
 
