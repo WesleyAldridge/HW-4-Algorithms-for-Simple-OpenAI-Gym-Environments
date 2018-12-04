@@ -16,4 +16,4 @@ Used instructor's code as base. Changed state_size to 2 and action_size to 3. Re
 
 ## Problem 4:
 
-Wrote the answer to problem 4. Please see 04_algorithms_methods_overview.ipynb to read them.
+Wrote the answers to problem 4. Please see 04_algorithms_methods_overview.ipynb to read them.
