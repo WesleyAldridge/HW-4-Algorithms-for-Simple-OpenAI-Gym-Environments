@@ -13,3 +13,7 @@ When the pole velocity at the tip is negative, the cart will go to the right. Wh
 ## Problem 3:
 
 Used instructor's code as base. Changed state_size to 2 and action_size to 3. Removed the sleep. Tried many different reward policies to try to get it to work. Tried a reward that is based on the position and the velocity. Tried a reward that is based on the highest obtained positions. Tried a reward based on the highest obtained velocities. None of them work.
+
+## Problem 4:
+
+Wrote the answer to problem 4. Please see 04_algorithms_methods_overview.ipynb to read them.
