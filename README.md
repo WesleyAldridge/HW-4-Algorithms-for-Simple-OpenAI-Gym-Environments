@@ -14,7 +14,7 @@ When the pole velocity at the tip is negative, the cart will go to the right. Wh
 
 Used instructor's code as base. Changed state_size to 2 and action_size to 3. Removed the sleep. Tried many different reward policies to try to get it to work. Tried a reward that is based on the absolute values of the position and the velocity. Tried a reward that is based on the highest obtained positions. Tried a reward based on the highest obtained velocities. None of them work. 
 
-Tried a reward that is based on the action taken at a given velocity. For example, if rightward velocity and rightward action, good reward. If leftward action and leftward velocity, good reward. Otherwise, bad reward. 
+Tried a reward that is based on the action taken at a given velocity. For example, if rightward velocity and rightward action, good reward. If leftward action and leftward velocity, good reward. Otherwise, bad reward. This did not work either.
 
 ## Problem 4:
 
